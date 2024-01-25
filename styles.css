@@ -1,0 +1,81 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body,
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #D6E1F0;
+}
+
+
+
+
+.container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0.5em;
+}
+
+
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.container h1 {
+    font-size: 23px;
+    text-align: center;
+    display: inline-block;
+}
+
+.container p {
+    font-size: 17px;
+    text-align: center;
+    color: #A09FA5;
+}
+
+
+div.container {
+    height: auto;
+    width: 70%;
+    border: 2px solid white;
+    border-radius: 1.5em;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-family: outfit;
+    justify-content: flex-start;
+    max-width: 360px;
+    gap: 20px;
+}
