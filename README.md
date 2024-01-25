@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 - Solution URL: https://github.com/Dmendez44/QR-Code-FE-Challenge
-- Live Site URL: https://github.com/Dmendez44/QR-Code-FE-Challenge
+- Live Site URL: https://dmendez44.github.io/QR-Code-FE-Challenge/
 
 
 ## My process
